@@ -1,0 +1,14 @@
+*
+!*/
+!*.jpg
+!*.md
+!*.erb
+!*.rb
+!*.yml
+!*.xml
+!*.svg
+!*.css
+!*.scss
+!*.js
+!Gemfile
+!.gitignore
