@@ -6,8 +6,9 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-
-* System dependencies
+ 2.6.1p33
+* System dependencies  
+-  password_digest working with 'bcrypt 3.1.7' 
 
 * Configuration
 
@@ -16,9 +17,3 @@ Things you may want to cover:
 * Database initialization
 
 * How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
