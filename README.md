@@ -15,12 +15,15 @@ rails server -b 0.0.0.0 -p 3200
 * Ruby version  
 3.9.1
 * System dependencies  
--  password_digest working with 'bcrypt 3.1.7' 
+
+
+password_digest working with 'bcrypt 3.1.7' 
 
 * Configuration
 
-* Database creation
+* Database creation  
 working with sqlite
+
 * Database initialization
 
 * How to run the test suite  
