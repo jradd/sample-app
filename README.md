@@ -4,6 +4,11 @@ So far rails have been really nice to work with. :)
 
 `git clone https://github.com/jradd/sample-app.git`
 
+
+## Initialize rails environment.
+For now, I just run `rails new .` and say `no` to all the prompts. 
+For some reason 'signup' doesn't route to 'create-new-user.' so fix that.
+
 ```
 cd sample-app
 bundle install --without production
